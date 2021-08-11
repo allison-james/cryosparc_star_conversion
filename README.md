@@ -12,7 +12,7 @@ Setup:
 2. Copy the script to a usefule directory (such as your home directory) by navigating to the directory (e.g. cd ~) and copying the scipt into a new file (e.g. nano cryosparc_star_conversion.sh)
 3. Make the script executable using chmod +x cryosparc_star_conversion.sh.
 4. Export the job to be converted from cryosparc
-5. Navigate to your RELION data processing folder
+5. Connect to the **transfer node** and navigate to your RELION data processing folder
 6. run "source path/to/cryosparc_star_conversion.sh"
 
 **run the script by running source path/to/cryosparc_star_conversion.sh**
