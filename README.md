@@ -1,7 +1,7 @@
 # cryosparc_star_conversion
 converts cryosparc particles to .star files
 
-This should be run from you RELION folder.
+This should be run from you RELION folder in the transfer node of the o2 cluster.
 
 pyem must be installed and configured in order to use this.
 
