@@ -9,7 +9,6 @@ echo "Enter job:"
 read job
 
 #initiates pyem vitual environment
-conda init bash
 conda activate pyem
 
 #run csparc2star.py
